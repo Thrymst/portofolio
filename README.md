@@ -42,7 +42,43 @@
   <img src="./Images/E-Commerce/edit_product_page.png" />
 </div>
 
+### Order Management System Screenshot
+**🔗 [Visit The Code](https://github.com/Thrymst/Ujian_RPL2)**
+<div align="center">
+    <p>📸 Main Page</p>
+  <img src="./Images/Order_management/main_page.png" />
+    <p>📸 Create Order</p>
+  <img src="./Images/Order_management/Create_order.png" />
+  <p>📸 Update Order 1</p>
+  <img src="./Images/Order_management/update_order1.png" />
+    <p>📸 Update Order 2</p>
+  <img src="./Images/Order_management/update_order2.png" />
+      <p>📸 Delete Order 1</p>
+  <img src="./Images/Order_management/delete_order1.png" />
+    <p>📸 Delete Order 2</p>
+  <img src="./Images/Order_management/delete_order 2.png" />
+    <p>📸 Database Order</p>
+  <img src="./Images/Order_management/database_order.png" />
+</div>
 
+### Worker Management Screenshots
+**🔗 [Visit The Code](https://github.com/Thrymst/Project-Praktikum-Pweb)**
+<div align="center">
+    <p>📸 Login Page</p>
+  <img src="./Images/Worker_management/login_page.png" />
+    <p>📸 Dashboard Page</p>
+  <img src="./Images/Worker_management/dashboard_page.png" />
+  <p>📸 Adding Worker Page</p>
+  <img src="./Images/Worker_management/adding_worker_page.png" />
+    <p>📸 Adding Worker Page 2</p>
+  <img src="./Images/Worker_management/adding_worker_page2.png" />
+      <p>📸 Edit Worker</p>
+  <img src="./Images/Worker_management/edit_worker.png" />
+    <p>📸 Delete Worker Page</p>
+  <img src="./Images/Worker_management/delete_workser_page.png" />
+    <p>📸 Delete Worker Page 2</p>
+  <img src="./Images/Worker_management/delete_worker_page2.png" />
+</div>
 
 ### Frontend
 - **HTML5**: Semantic markup and structure
