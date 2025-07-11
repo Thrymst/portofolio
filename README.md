@@ -43,22 +43,6 @@
 </div>
 
 
-## 📋 About This Project
-
-This is my personal portfolio website showcasing my skills, projects, and experience as a Computer Science student and aspiring software developer. The website features a modern, responsive design with interactive elements and smooth animations.
-
-## ✨ Features
-
-- **🎨 Modern Design**: Clean, professional layout with smooth animations
-- **📱 Fully Responsive**: Optimized for all devices (desktop, tablet, mobile)
-- **⚡ Interactive Elements**: Dynamic content with JavaScript functionality
-- **🎯 Project Showcase**: Detailed presentation of my development projects
-- **📊 Skills Visualization**: Interactive skill bars and progress indicators
-- **📞 Contact Integration**: Working contact form with email functionality
-- **🌙 Dark/Light Mode**: Toggle between themes for better user experience
-- **🚀 Fast Loading**: Optimized performance for quick page loads
-
-## 🛠️ Technologies Used
 
 ### Frontend
 - **HTML5**: Semantic markup and structure
@@ -149,15 +133,6 @@ php -S localhost:8000
 mysql -u username -p database_name < database/contact_form.sql
 ```
 
-4. **Configure database connection**
-```php
-// Update database credentials in contact.php
-$host = 'localhost';
-$username = 'your_username';
-$password = 'your_password';
-$database = 'your_database';
-```
-
 ## 📱 Responsive Design
 
 The website is fully responsive and tested on:
@@ -165,42 +140,6 @@ The website is fully responsive and tested on:
 - ✅ Laptop (1024px - 1919px)
 - ✅ Tablet (768px - 1023px)
 - ✅ Mobile (320px - 767px)
-
-## 🎨 Customization
-
-### Colors
-```css
-:root {
-  --primary-color: #2196F3;
-  --secondary-color: #FF5722;
-  --accent-color: #4CAF50;
-  --text-color: #333;
-  --bg-color: #ffffff;
-}
-```
-
-### Typography
-```css
-/* Main font families used */
-font-family: 'Poppins', sans-serif;
-font-family: 'Roboto', sans-serif;
-```
-
-## 📊 Performance Metrics
-
-- **PageSpeed Score**: 95/100
-- **Loading Time**: < 2 seconds
-- **Mobile Friendly**: ✅ Yes
-- **SEO Optimized**: ✅ Yes
-
-## 🔧 Features to Add
-
-- [ ] Blog section
-- [ ] Multi-language support
-- [ ] PWA (Progressive Web App)
-- [ ] Content Management System
-- [ ] Analytics integration
-- [ ] Advanced animations
 
 ## 📞 Contact
 
@@ -223,7 +162,21 @@ This project is open source and available under the [MIT License](LICENSE).
 - **Community**: Stack Overflow and GitHub community
 
 ---
+## Contributors
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mozartfelix">
+        <img src="https://github.com/mozartfelix.png" width="100px;" alt="Mozart Felix"/>
+        <br />
+        <sub><b>Mozart Felix</b></sub>
+      </a>
+      <br />
+      <a href="#" title="Code">💻</a> <a href="#" title="Documentation">📖</a>
+    </td>
+  </tr>
+</table>
 <div align="center">
   <h3>⭐ If you found this project helpful, please give it a star!</h3>
   <p>Made with ❤️ by <a href="https://github.com/Thrymst">Junaedi Samandias</a></p>
