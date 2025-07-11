@@ -13,6 +13,36 @@
 
 **🔗 [Visit My Portfolio](https://thrymst.github.io/portfolio-website/)**
 
+### E-Commerce Website Screenshots
+
+<div align="center">
+    <p>📸 Home Page</p>
+  <img src="./Images/E-Commerce/home_page.png" />
+    <p>📸 Login Page</p>
+  <img src="./Images/E-Commerce/login_page.png" />
+  <p>📸 Register Page</p>
+  <img src="./Images/E-Commerce/register_page.png" />
+    <p>📸 Product List</p>
+  <img src="./Images/E-Commerce/product_list.png" />
+      <p>📸 Product Page</p>
+  <img src="./Images/E-Commerce/product_page.png" />
+    <p>📸 Keranjang Page</p>
+  <img src="./Images/E-Commerce/keranjang_page.png" />
+    <p>📸 Payment Page</p>
+  <img src="./Images/E-Commerce/payment_page.png" />
+  <p>📸 Invoice Page</p>
+  <img src="./Images/E-Commerce/invoice_page.png" />
+    <p>📸 Invoice List Page</p>
+  <img src="./Images/E-Commerce/invoice_list_page.png" />
+      <p>📸 Admin Page</p>
+  <img src="./Images/E-Commerce/admin_page.png" />
+    <p>📸 Adding Product Page</p>
+  <img src="./Images/E-Commerce/adding_product_page.png" />
+    <p>📸 Edit Product Page</p>
+  <img src="./Images/E-Commerce/edit_product_page.png" />
+</div>
+
+
 ## 📋 About This Project
 
 This is my personal portfolio website showcasing my skills, projects, and experience as a Computer Science student and aspiring software developer. The website features a modern, responsive design with interactive elements and smooth animations.
@@ -48,28 +78,15 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 
 ## 📁 Project Structure
 
-```
-portfolio-website/
-├── index.html              # Main homepage
-├── about.html              # About me page
-├── projects.html           # Projects showcase
-├── contact.html            # Contact form page
-├── css/
-│   ├── style.css          # Main stylesheet
-│   ├── responsive.css     # Mobile responsiveness
-│   └── animations.css     # Animation styles
-├── js/
-│   ├── main.js           # Main JavaScript functionality
-│   ├── projects.js       # Project filtering and display
-│   └── contact.js        # Contact form handling
-├── images/
-│   ├── profile.jpg       # Profile picture
-│   ├── projects/         # Project screenshots
-│   └── icons/            # Custom icons
-├── database/
-│   └── contact_form.sql  # Database schema
-└── README.md             # This file
-```
+<div align="center">
+    <p>📸 Activity Diagram</p>
+  <img src="./Images/E-Commerce/activity_Diagram.png" />
+    <p>📸 Struktur Navigasi</p>
+  <img src="./Images/E-Commerce/Struktur Navigasi.png" />
+  <p>📸 Struktur Navigasi Customer</p>
+  <img src="./Images/E-Commerce/Struktur Navigasi_costumer.png" />
+</div>
+
 
 ## 🎯 Key Sections
 
