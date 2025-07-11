@@ -13,22 +13,36 @@
 
 **🔗 [Visit My Portfolio](https://thrymst.github.io/portfolio-website/)**
 
-## 📋 About This Project
+### E-Commerce Website Screenshots
 
-This is my personal portfolio website showcasing my skills, projects, and experience as a Computer Science student and aspiring software developer. The website features a modern, responsive design with interactive elements and smooth animations.
+<div align="center">
+    <p>📸 Home Page</p>
+  <img src="./Images/E-Commerce/home_page.png" />
+    <p>📸 Login Page</p>
+  <img src="./Images/E-Commerce/login_page.png" />
+  <p>📸 Register Page</p>
+  <img src="./Images/E-Commerce/register_page.png" />
+    <p>📸 Product List</p>
+  <img src="./Images/E-Commerce/product_list.png" />
+      <p>📸 Product Page</p>
+  <img src="./Images/E-Commerce/product_page.png" />
+    <p>📸 Keranjang Page</p>
+  <img src="./Images/E-Commerce/keranjang_page.png" />
+    <p>📸 Payment Page</p>
+  <img src="./Images/E-Commerce/payment_page.png" />
+  <p>📸 Invoice Page</p>
+  <img src="./Images/E-Commerce/invoice_page.png" />
+    <p>📸 Invoice List Page</p>
+  <img src="./Images/E-Commerce/invoice_list_page.png" />
+      <p>📸 Admin Page</p>
+  <img src="./Images/E-Commerce/admin_page.png" />
+    <p>📸 Adding Product Page</p>
+  <img src="./Images/E-Commerce/adding_product_page.png" />
+    <p>📸 Edit Product Page</p>
+  <img src="./Images/E-Commerce/edit_product_page.png" />
+</div>
 
-## ✨ Features
 
-- **🎨 Modern Design**: Clean, professional layout with smooth animations
-- **📱 Fully Responsive**: Optimized for all devices (desktop, tablet, mobile)
-- **⚡ Interactive Elements**: Dynamic content with JavaScript functionality
-- **🎯 Project Showcase**: Detailed presentation of my development projects
-- **📊 Skills Visualization**: Interactive skill bars and progress indicators
-- **📞 Contact Integration**: Working contact form with email functionality
-- **🌙 Dark/Light Mode**: Toggle between themes for better user experience
-- **🚀 Fast Loading**: Optimized performance for quick page loads
-
-## 🛠️ Technologies Used
 
 ### Frontend
 - **HTML5**: Semantic markup and structure
@@ -48,28 +62,15 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 
 ## 📁 Project Structure
 
-```
-portfolio-website/
-├── index.html              # Main homepage
-├── about.html              # About me page
-├── projects.html           # Projects showcase
-├── contact.html            # Contact form page
-├── css/
-│   ├── style.css          # Main stylesheet
-│   ├── responsive.css     # Mobile responsiveness
-│   └── animations.css     # Animation styles
-├── js/
-│   ├── main.js           # Main JavaScript functionality
-│   ├── projects.js       # Project filtering and display
-│   └── contact.js        # Contact form handling
-├── images/
-│   ├── profile.jpg       # Profile picture
-│   ├── projects/         # Project screenshots
-│   └── icons/            # Custom icons
-├── database/
-│   └── contact_form.sql  # Database schema
-└── README.md             # This file
-```
+<div align="center">
+    <p>📸 Activity Diagram</p>
+  <img src="./Images/E-Commerce/activity_Diagram.png" />
+    <p>📸 Struktur Navigasi</p>
+  <img src="./Images/E-Commerce/Struktur Navigasi.png" />
+  <p>📸 Struktur Navigasi Customer</p>
+  <img src="./Images/E-Commerce/Struktur Navigasi_costumer.png" />
+</div>
+
 
 ## 🎯 Key Sections
 
@@ -132,15 +133,6 @@ php -S localhost:8000
 mysql -u username -p database_name < database/contact_form.sql
 ```
 
-4. **Configure database connection**
-```php
-// Update database credentials in contact.php
-$host = 'localhost';
-$username = 'your_username';
-$password = 'your_password';
-$database = 'your_database';
-```
-
 ## 📱 Responsive Design
 
 The website is fully responsive and tested on:
@@ -148,42 +140,6 @@ The website is fully responsive and tested on:
 - ✅ Laptop (1024px - 1919px)
 - ✅ Tablet (768px - 1023px)
 - ✅ Mobile (320px - 767px)
-
-## 🎨 Customization
-
-### Colors
-```css
-:root {
-  --primary-color: #2196F3;
-  --secondary-color: #FF5722;
-  --accent-color: #4CAF50;
-  --text-color: #333;
-  --bg-color: #ffffff;
-}
-```
-
-### Typography
-```css
-/* Main font families used */
-font-family: 'Poppins', sans-serif;
-font-family: 'Roboto', sans-serif;
-```
-
-## 📊 Performance Metrics
-
-- **PageSpeed Score**: 95/100
-- **Loading Time**: < 2 seconds
-- **Mobile Friendly**: ✅ Yes
-- **SEO Optimized**: ✅ Yes
-
-## 🔧 Features to Add
-
-- [ ] Blog section
-- [ ] Multi-language support
-- [ ] PWA (Progressive Web App)
-- [ ] Content Management System
-- [ ] Analytics integration
-- [ ] Advanced animations
 
 ## 📞 Contact
 
@@ -206,7 +162,21 @@ This project is open source and available under the [MIT License](LICENSE).
 - **Community**: Stack Overflow and GitHub community
 
 ---
+## Contributors
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mozartfelix">
+        <img src="https://github.com/mozartfelix.png" width="100px;" alt="Mozart Felix"/>
+        <br />
+        <sub><b>Mozart Felix</b></sub>
+      </a>
+      <br />
+      <a href="#" title="Code">💻</a> <a href="#" title="Documentation">📖</a>
+    </td>
+  </tr>
+</table>
 <div align="center">
   <h3>⭐ If you found this project helpful, please give it a star!</h3>
   <p>Made with ❤️ by <a href="https://github.com/Thrymst">Junaedi Samandias</a></p>
